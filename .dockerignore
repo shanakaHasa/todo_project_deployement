@@ -1,0 +1,17 @@
+# Exclude venv directory in Backend
+Backend/venv/
+
+# Exclude node_modules directory in Frontend
+Frontend/node_modules/
+
+# Exclude Python bytecode files and directories
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Exclude macOS-specific metadata files
+.DS_Store
+
+# Exclude Git version control files
+.git
